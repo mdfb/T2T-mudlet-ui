@@ -1,6 +1,6 @@
 # lotj-mudlet-ui
 
-This is an attempt to provide a richer UI for [Legends of the Jedi MUD](https://www.legendsofthejedi.com/) in Mudlet.
+This is an attempt to provide a richer UI for T2T [t2tmud.org] based of the original work from [Legends of the Jedi MUD](https://www.legendsofthejedi.com/) in Mudlet.
 
 ![Image of UI with ground map](https://raw.githubusercontent.com/LotJ/lotj-mudlet-ui/main/images/ground-map.png)
 
@@ -13,17 +13,6 @@ This package includes a script hooking into Mudlet's mapper so you can map by (m
 
 It works fairly well on all existing planets. It's based on room vnums, which means it will consider each ship to be fully unique rooms.
 
-### Local System Map
-
-![Image of UI with ground map](https://raw.githubusercontent.com/LotJ/lotj-mudlet-ui/main/images/system-map.png)
-
-When flying in a system, triggers capture radar output and draw a visual representation of the radar, including zooming in/out and updating proximity of each other entity as your position changes.
-
-### Galaxy Map
-
-![Image of UI with ground map](https://raw.githubusercontent.com/LotJ/lotj-mudlet-ui/main/images/galaxy-map.png)
-
-After initializing it by running various in-game commands, this map will show all publicly listed starsystems, including coloring each government's planets differently. It will also attempt to highlight your current system when known, although that only works while in space.
 
 ### Chat windows
 
