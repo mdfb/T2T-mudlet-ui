@@ -1,6 +1,6 @@
 # lotj-mudlet-ui
 
-This is an attempt to provide a richer UI for T2T [t2tmud.org] based of the original work from [Legends of the Jedi MUD](https://www.legendsofthejedi.com/) in Mudlet.
+This is an attempt to provide a richer UI for [T2T](t2tmud.org) based of the original work from [Legends of the Jedi MUD](https://www.legendsofthejedi.com/) in Mudlet.
 
 ![Image of UI with ground map](https://raw.githubusercontent.com/LotJ/lotj-mudlet-ui/main/images/ground-map.png)
 
